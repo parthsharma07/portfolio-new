@@ -25,7 +25,7 @@ const IndexPage = () => (
           <p className="lead mb-5">
             I am an experienced developer with good work experience in mobile and web development fields.
             I also love to contribute towards coding community and have demonstrated leadership skills by
-            being one of the founding members of the developers' club of my college NIT Patna and the technical
+            being one of the founding members of the developers' club of my college NIT Patna and the first technical
             lead of DSC NIT Patna.
           </p>
           <div className="social-icons">
@@ -53,6 +53,21 @@ const IndexPage = () => (
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">SDE Intern</h3>
+              <div className="subheading mb-3">Dresma</div>
+              <p>
+                Developed the Android app for the company in order to facilitate production
+                of high quality images for sellers who sell their products on e-commerce
+                websites.
+              </p>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">June 2021 - September 2021</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
+              <h3 className="mb-0">SDE Intern</h3>
               <div className="subheading mb-3">CoalShastra</div>
               <p>
                 Developed the iOS app for the company in order to facilitate online
@@ -61,7 +76,7 @@ const IndexPage = () => (
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">November 2020 - Present</span>
+              <span className="text-primary">November 2020 - July 2021</span>
             </div>
           </div>
 
@@ -104,7 +119,7 @@ const IndexPage = () => (
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">September 2020 - Present</span>
+              <span className="text-primary">September 2020 - June 2021</span>
             </div>
           </div>
 
@@ -118,7 +133,7 @@ const IndexPage = () => (
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">July 2020 - Present</span>
+              <span className="text-primary">July 2020 - June 2021</span>
             </div>
           </div>
 
@@ -127,7 +142,7 @@ const IndexPage = () => (
               <h3 className="mb-0">Web Developer</h3>
               <div className="subheading mb-3">SAC Council NIT Patna</div>
               <p>
-                Responsible for developing the website of hackNITP 2.0, the annual hackathon of 
+                Responsible for developing the website of hackNITP 2.0, the annual hackathon of
                 National Institute of Technology Patna.
               </p>
             </div>
@@ -152,7 +167,7 @@ const IndexPage = () => (
               <h3 className="mb-0">National Institute of Technology, Patna</h3>
               <div className="subheading mb-3">Bachelor of Technology</div>
               <div>Computer Science and Engineering</div>
-              <p>CGPA: 8.66</p>
+              <p>CGPA: 8.55</p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">August 2018 - June 2022</span>
@@ -284,6 +299,18 @@ const IndexPage = () => (
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
               Google Cloud Platform - Google Certification
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Joy of Computing using Python - NPTEL Certification
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Software Testing - NPTEL Certification
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Data Analytics with Python - NPTEL Certification
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
