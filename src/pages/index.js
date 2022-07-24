@@ -52,6 +52,35 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
+              <h3 className="mb-0">Software Engineer</h3>
+              <div className="subheading mb-3">Paytm</div>
+              <p>
+                Working with the backend team of Paytm Motor Insurance and currently responsible
+                for modifying and developing different APIs for motor-insurance-backend project.
+              </p>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">June 2022 - Present</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
+              <h3 className="mb-0">SWE Intern</h3>
+              <div className="subheading mb-3">Paytm</div>
+              <p>
+                Worked with the backend team of Paytm Motor Insurance and wrote unit tests
+                for different layers of the application and also did modification of some APIs
+                of motor-insurance-backend project.
+              </p>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">January 2022 - June 2022</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
               <h3 className="mb-0">SDE Intern</h3>
               <div className="subheading mb-3">Dresma</div>
               <p>
